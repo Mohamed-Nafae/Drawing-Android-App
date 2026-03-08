@@ -5,10 +5,11 @@ A modern, intuitive drawing application for Android built using **Jetpack Compos
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://storage.googleapis.com/content-studio-63c6c.appspot.com/users/msi/chats/2860456570535123062/7c97858c-a0e2-45e0-82d3-1b91834278e9.jpg" width="22%" />
-  <img src="https://storage.googleapis.com/content-studio-63c6c.appspot.com/users/msi/chats/2860456570535123062/2275eb1e-f3b1-4191-807e-13c51df779f7.jpg" width="22%" />
-  <img src="https://storage.googleapis.com/content-studio-63c6c.appspot.com/users/msi/chats/2860456570535123062/cc95b135-c088-4687-b939-da7c8651a141.jpg" width="22%" />
-  <img src="https://storage.googleapis.com/content-studio-63c6c.appspot.com/users/msi/chats/2860456570535123062/0f7e4c5b-4395-4608-8e8e-9669e46a782b.jpg" width="22%" />
+  ![Complete Infrastructure Stack](./images/Screenshot_2026-03-05-15-04-14-300_com.bm.drawappbm.jpg)
+  ![Complete Infrastructure Stack](./images/Screenshot_2026-03-05-15-04-14-301_com.bm.drawappbm.jpg)
+  ![Complete Infrastructure Stack](./images/Screenshot_2026-03-05-15-04-38-704_com.bm.drawappbm.jpg)
+  ![Complete Infrastructure Stack](./images/Screenshot_2026-03-05-15-04-57-626_com.bm.drawappbm.jpg)
+
 </p>
 
 ## ✨ Features
