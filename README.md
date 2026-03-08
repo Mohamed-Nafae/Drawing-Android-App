@@ -4,10 +4,9 @@ A modern, intuitive drawing application for Android built using **Jetpack Compos
 
 ## 📸 Screenshots
 
-  ![Complete Infrastructure Stack](./images/Screenshot_2026-03-05-15-04-14-300_com.bm.drawappbm.jpg)
-  ![Complete Infrastructure Stack](./images/Screenshot_2026-03-05-15-04-14-301_com.bm.drawappbm.jpg)
-  ![Complete Infrastructure Stack](./images/Screenshot_2026-03-05-15-04-38-704_com.bm.drawappbm.jpg)
-  ![Complete Infrastructure Stack](./images/Screenshot_2026-03-05-15-04-57-626_com.bm.drawappbm.jpg)
+  <div align="center"> 
+    <img src="./images/Screenshot_2026-03-05-15-04-14-300_com.bm.drawappbm.jpg" width="180"/> <img src="./images/Screenshot_2026-03-05-15-04-14-301_com.bm.drawappbm.jpg" width="180"/> <img src="./images/Screenshot_2026-03-05-15-04-38-704_com.bm.drawappbm.jpg" width="180"/> <img src="./images/Screenshot_2026-03-05-15-04-57-626_com.bm.drawappbm.jpg" width="180"/> 
+  </div>
 
 
 ## ✨ Features
