@@ -2,10 +2,16 @@
 
 A modern, intuitive drawing application for Android built using **Jetpack Compose** and **Material 3**. This app provides a smooth drawing experience with customizable brushes and colors.
 
+## 📲 Download
+
+Get the app on Google Play:
+
+👉 [Download Draw App BM](https://kotlinlang.org/)
+
 ## 📸 Screenshots
 
   <div align="center"> 
-    <img src="./images/Screenshot_2026-03-05-15-04-14-300_com.bm.drawappbm.jpg" width="180"/> <img src="./images/Screenshot_2026-03-05-15-04-14-301_com.bm.drawappbm.jpg" width="180"/> <img src="./images/Screenshot_2026-03-05-15-04-38-704_com.bm.drawappbm.jpg" width="180"/> <img src="./images/Screenshot_2026-03-05-15-04-57-626_com.bm.drawappbm.jpg" width="180"/> 
+    <img src="./images/Screenshot_2026-03-05-15-04-14-300_com.bm.drawappbm.jpg" width="200"/> <img src="./images/Screenshot_2026-03-05-15-04-14-301_com.bm.drawappbm.jpg" width="200"/> <img src="./images/Screenshot_2026-03-05-15-04-38-704_com.bm.drawappbm.jpg" width="200"/> <img src="./images/Screenshot_2026-03-05-15-04-57-626_com.bm.drawappbm.jpg" width="200"/> 
   </div>
 
 
