@@ -6,7 +6,7 @@ A modern, intuitive drawing application for Android built using **Jetpack Compos
 
 Get the app on Google Play:
 
-👉 [Download Draw App BM](https://kotlinlang.org/)
+👉 [Download Draw App BM](https://play.google.com/store/apps/details?id=com.bm.drawappbm)
 
 ## 📸 Screenshots
 
